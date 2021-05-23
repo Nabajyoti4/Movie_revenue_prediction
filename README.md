@@ -15,5 +15,6 @@ There are total 5000 near entries.
 ## Data cleaning
 * Removed all missing values rows
 * Removed column ['Domestic Gross', 'Movie title', 'Rank', 'Relese Date']
+* Format the $40,000,000 to 4000000.00 format
 
 
